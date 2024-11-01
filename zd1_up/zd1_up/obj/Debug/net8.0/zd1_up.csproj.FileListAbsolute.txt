@@ -1,0 +1,14 @@
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\bin\Debug\net8.0\zd1_up.exe
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\bin\Debug\net8.0\zd1_up.deps.json
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\bin\Debug\net8.0\zd1_up.runtimeconfig.json
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\bin\Debug\net8.0\zd1_up.dll
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\bin\Debug\net8.0\zd1_up.pdb
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.AssemblyInfo.cs
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.dll
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\refint\zd1_up.dll
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.pdb
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\zd1_up.genruntimeconfig.cache
+C:\Users\karin\Documents\котик c#\zd1_up\zd1_up\obj\Debug\net8.0\ref\zd1_up.dll
