@@ -1,0 +1,16 @@
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\bin\Debug\net8.0-windows\zd2-3.exe
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\bin\Debug\net8.0-windows\zd2-3.deps.json
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\bin\Debug\net8.0-windows\zd2-3.runtimeconfig.json
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\bin\Debug\net8.0-windows\zd2-3.dll
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\bin\Debug\net8.0-windows\zd2-3.pdb
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2_3.Form1.resources
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.csproj.GenerateResource.cache
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.AssemblyInfo.cs
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.dll
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\refint\zd2-3.dll
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.pdb
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\zd2-3.genruntimeconfig.cache
+C:\Users\karin\Documents\котик c#\zd2-3\zd2-3\obj\Debug\net8.0-windows\ref\zd2-3.dll
